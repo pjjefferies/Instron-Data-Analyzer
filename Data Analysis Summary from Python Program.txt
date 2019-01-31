@@ -1,0 +1,142 @@
+Sample ID,  A Overall Peak Loads
+1 ,  23015.73
+2 ,  23304.86
+3 ,  23250.59
+4 ,  23569.95
+5 ,  23080.22
+6 ,  20639.22
+
+
+Sample ID,  P Overall Peak Loads
+1 ,  17671.61
+2 ,  16593.29
+3 ,  18046.66
+4 ,  16503.78
+5 ,  17264.12
+6 ,  17231.03
+
+   Comparison Type:  Max Load
+             Types:                A               P
+             Means:        22,810.10       17,218.41
+       Stand. Dev.:         1,081.13          599.18
+     Deg. of Free.:                7
+  t-test statistic:            11.08
+    t-test thresh.:             1.89
+Means are statistically significantly different for alpha=0.05
+
+
+
+
+Sample ID,  A First Peak Loads
+1       22,829.76
+2       23,304.86
+3       19,005.71
+4       23,569.95
+5       23,080.22
+6       20,639.22
+
+
+Sample ID,  P First Peak Loads
+1       17,671.61
+2       16,593.29
+3       18,046.66
+4       16,503.78
+5       17,264.12
+6       17,231.03
+
+   Comparison Type:  First Peak Load
+             Types:                A               P
+             Means:        22,071.62       17,218.41
+       Stand. Dev.:         1,833.55          599.18
+     Deg. of Free.:                6
+  t-test statistic:             6.16
+    t-test thresh.:             1.94
+Means are statistically significantly different for alpha=0.05
+
+
+
+
+
+   Comparison Type:  Start Delay: 2000 N, Load Eval. Point: 4000 mm
+             Types:                A               P
+             Means:             1.69            1.93
+       Stand. Dev.:             0.35            0.40
+     Deg. of Free.:                9
+  t-test statistic:             1.08
+    t-test thresh.:             1.83
+Means are NOT statistically significantly different for alpha=0.05
+
+
+   Comparison Type:  Start Delay: 2000 N, Load Eval. Point: 6000 mm
+             Types:                A               P
+             Means:             3.42            3.65
+       Stand. Dev.:             0.39            0.38
+     Deg. of Free.:                9
+  t-test statistic:             1.04
+    t-test thresh.:             1.83
+Means are NOT statistically significantly different for alpha=0.05
+
+
+   Comparison Type:  Start Delay: 2000 N, Load Eval. Point: 8000 mm
+             Types:                A               P
+             Means:             5.29            5.60
+       Stand. Dev.:             0.39            0.34
+     Deg. of Free.:                9
+  t-test statistic:             1.44
+    t-test thresh.:             1.83
+Means are NOT statistically significantly different for alpha=0.05
+
+
+   Comparison Type:  Start Delay: 2000 N, Load Eval. Point: 10000 mm
+             Types:                A               P
+             Means:             7.44            7.86
+       Stand. Dev.:             0.39            0.32
+     Deg. of Free.:                9
+  t-test statistic:             2.02
+    t-test thresh.:             1.83
+Means are statistically significantly different for alpha=0.05
+
+
+   Comparison Type:  Start Delay: 2000 N, Load Eval. Point: 12000 mm
+             Types:                A               P
+             Means:            10.03           10.67
+       Stand. Dev.:             0.41            0.37
+     Deg. of Free.:                9
+  t-test statistic:             2.83
+    t-test thresh.:             1.83
+Means are statistically significantly different for alpha=0.05
+
+
+   Comparison Type:  Start Delay: 2000 N, Load Eval. Point: 14000 mm
+             Types:                A               P
+             Means:            12.96           13.85
+       Stand. Dev.:             0.41            0.37
+     Deg. of Free.:                9
+  t-test statistic:             3.93
+    t-test thresh.:             1.83
+Means are statistically significantly different for alpha=0.05
+
+
+   Comparison Type:  Start Delay: 2000 N, Load Eval. Point: 16000 mm
+             Types:                A               P
+             Means:            16.03           17.56
+       Stand. Dev.:             0.51            0.69
+     Deg. of Free.:                9
+  t-test statistic:             4.39
+    t-test thresh.:             1.83
+Means are statistically significantly different for alpha=0.05
+
+
+Sample ID, 2000 , 4000 , 6000 , 8000 , 10000 , 12000 , 14000 , 
+A 1 ,  1.33 ,  2.92 ,  4.92 ,  7.17 ,  9.92 , 13.00 , 16.42 , 
+A 2 ,  1.50 ,  3.17 ,  4.83 ,  7.00 ,  9.50 , 12.33 , 15.25 , 
+A 3 ,  1.75 ,  3.83 ,  5.58 ,  7.67 , 10.17 , 13.00 , 15.92 , 
+A 4 ,  1.50 ,  3.17 ,  5.08 ,  7.17 ,  9.67 , 12.67 , 15.67 , 
+A 5 ,  1.75 ,  3.58 ,  5.75 ,  8.00 , 10.58 , 13.50 , 16.58 , 
+A 6 ,  2.33 ,  3.83 ,  5.58 ,  7.67 , 10.33 , 13.25 , 16.33 , 
+P 1 ,  2.12 ,  3.79 ,  5.75 ,  8.12 , 11.08 , 14.17 , 17.62 , 
+P 2 ,  1.37 ,  3.12 ,  5.12 ,  7.46 , 10.29 , 13.37 , 17.04 , 
+P 3 ,  1.58 ,  3.21 ,  5.21 ,  7.50 , 10.38 , 13.42 , 16.71 , 
+P 4 ,  1.92 ,  3.83 ,  5.83 ,  8.25 , 11.17 , 14.25 , 18.58 , 
+P 5 ,  2.08 ,  3.92 ,  5.75 ,  7.92 , 10.58 , 13.92 , 17.33 , 
+P 6 ,  2.50 ,  4.00 ,  5.92 ,  7.92 , 10.50 , 14.00 , 18.08 , 
